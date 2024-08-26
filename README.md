@@ -8,5 +8,9 @@ Works best when resulting file is viewed on VR Headsets otherwise It's very diff
 
 ## Requirements
 - ffmpeg
+- numpy
+- mlx
+- opencv-python
+- tqdm
 - Mac or other Apple Computer (It will still probably work on windows or linux but have not tested and will run on CPU)
 

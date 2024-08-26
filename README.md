@@ -1,5 +1,5 @@
 # 2D to 3D SBS Video Converter
-***Optimized for Mac Silicon**
+***Optimized for Mac Silicon***
 
 ## *WORK IN PROGRESS; NOT YET READY FOR USE*
 
